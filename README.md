@@ -92,6 +92,7 @@ Para se tornar um profissional de segurança (ou um Hacker Ético), as fontes re
   - Como fiz? 
 
   ![Imagem da IA](Guia-de-Estudos-NotebookLM/image/Foto.png)
+  ![Mapa mental](Guia-de-Estudos-NotebookLM/image/MapaMental.png)
 
   Eu basicamente peguei alguns artigos e uns links de vídeos didáticos sobre no Youtube, vídeos falando bem e mal para ter uma centralização de opinião, e cursos sobre.
 
