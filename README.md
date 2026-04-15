@@ -91,6 +91,8 @@ Para se tornar um profissional de segurança (ou um Hacker Ético), as fontes re
 
   - Como fiz? 
 
+  ![Logo](image\Esse foi todo o material que gerei para a IA e oque ela me devolveu..png )
+
   Eu basicamente peguei alguns artigos e uns links de vídeos didáticos sobre no Youtube, vídeos falando bem e mal para ter uma centralização de opinião, e cursos sobre.
 
   Dessa maneira eu pude trazer bem completa a base de " personalidade da IA " a respeito do tema.
